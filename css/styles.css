@@ -1,0 +1,40 @@
+
+.first{background-color:#FF8882;
+text-align:center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:30px;
+  height:50px;
+}
+
+.fam{text-align: center;
+  font-family:'Sacramento', cursive;
+  font-size: 7rem;
+  ;
+}
+p{ font-size:1.5rem;
+padding: 0 10% 0 10%;}
+.pic{padding-left:95%;
+  width:170px;
+  color:#4A1C40;
+}
+.pp{font-size:7.5rem;
+  text-align:center;
+  font-family:'Sacramento', cursive;
+}
+.ak{text-align:center;
+  font-family:Tahoma;
+  font-size:2rem;
+}
+.bb{
+  background-color:#F6DFEB;
+}
+cite{color:purple;}
+.second{background-color: #D8E3E7;}
+.list{color:purple;}
+.imgaffects{height:400px;
+width:500px;
+padding:2% 30% 5% 30%;}
